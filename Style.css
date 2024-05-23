@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h3 {
+  color: #ff8c82;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 2px 2px 5px #ff8c82;
+  }
+
+h1 {
+  color: #831100;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 2px 2px 5px #ff8c82;
+  }
+
+body {
+  background-color: #ffc5ab;
+  }
+
+a {
+  color: #791a3d;
+  }
+
+video {
+  background: #f08a7c;
+  align: centre;
+}
